@@ -1,0 +1,5 @@
+{
+  "name": "claude-theme-nocturne",
+  "owner": { "name": "DaGav-tester" },
+  "plugins": [{ "name": "nocturne", "source": "./" }]
+}
